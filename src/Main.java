@@ -8,4 +8,15 @@ public class Main {
         String фуф = "фуф";
 
     }
+    String a = "a";
+    String b = "b";
+    String c = "c";
+
+    String change = "My change for Stash!";
+
+    int a = 1;
+    int b = 2;
+    int c = 3;
+    int d = 4;
+
 }
