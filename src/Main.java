@@ -13,4 +13,6 @@ public class Main {
 
     String change = "My change for Stash!";
 
+    int a = 1;
+
 }
