@@ -5,6 +5,7 @@ public class Main {
         int c = 2;
         int f = 2;
         int s = 2;
+        String фуф = "фуф";
 
     }
 }
