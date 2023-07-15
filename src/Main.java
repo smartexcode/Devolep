@@ -23,4 +23,9 @@ public class Main {
     int a2 = 2;
 
     int acer = 243;
+    int commit1 =1;
+    int commit2 =2;
+    int commit3 =3;
+
+
 }
