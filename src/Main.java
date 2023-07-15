@@ -22,4 +22,5 @@ public class Main {
     int a1 = 1;
     int a2 = 2;
 
+    int acer = 243;
 }
