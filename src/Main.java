@@ -19,4 +19,7 @@ public class Main {
     int c = 3;
     int d = 4;
 
+    int a1 = 1;
+    int a2 = 2;
+
 }
