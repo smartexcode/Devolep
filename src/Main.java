@@ -1,31 +1,18 @@
 public class Main {
     public static void main(String[] args) {
-        int a = 1;
-        int b = 2;
-        int c = 2;
-        int f = 2;
-        int s = 2;
-        String фуф = "фуф";
+     int num = 100;
+
+     for(int i = 0; i < num; i++){
+         if (i % 3 == 0 && i % 5 == 0){
+             System.out.println(" FIZZ BUZZ ");
+         } else if (i % 3 == 0) {
+             System.out.println(" Fizz ");
+         } else if (i % 5 == 0) {
+             System.out.println(" Buzz ");
+         } else {
+             System.out.println(i);
+         }
+     }
 
     }
-    String a = "a";
-    String b = "b";
-    String c = "c";
-
-    String change = "My change for Stash!";
-
-    int a = 1;
-    int b = 2;
-    int c = 3;
-    int d = 4;
-
-    int a1 = 1;
-    int a2 = 2;
-
-    int acer = 243;
-    int commit1 =1;
-    int commit2 =2;
-    int commit3 =3;
-
-
 }
